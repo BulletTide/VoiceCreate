@@ -1,0 +1,12 @@
+{
+  "token": "insert_token",
+  "prefix": ".",
+  "color": "#718ad6",
+
+  "na_role": "id",
+  "eu_role": "id",
+  "staff_role": "id",
+  "voice_cmds_channel": "voice-junk",
+  "create_voice_channel": "Join To Create A Channel",
+  "voice_channels_category": "Voice Channels"
+}
